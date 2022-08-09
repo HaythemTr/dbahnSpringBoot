@@ -14,6 +14,7 @@ import javax.persistence.Table;
 @ToString
 @Entity
 @Table(name="betriebsstellen1")
+//@Table(name = "betrieb")
 public class Betriebstelle {
   @Id
   @Column(name="code")
