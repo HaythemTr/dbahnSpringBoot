@@ -1,4 +1,4 @@
-# dbahnSpringBoot
+# DbahnSpringBoot Projekt
 ## Konzept
 Betriebsstellen Projekt entwickelt mit Spring Boot und Java.
 Es wurde ein Programm entwickelt, um die CSV-Datei zu lesen und in eine Datenbank hochzuladen und dann 2 REST-Endpunkte zu erstellen, von denen einer alle Betriebsstellen und einer eine bestimmte anzeigt.
